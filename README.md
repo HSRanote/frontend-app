@@ -1,24 +1,17 @@
-# frontend-app
+# Frontend
 
-## Project setup
-```
-npm install
-```
+This is the frontend application built with Vue.js.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Setup
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1. Install dependencies:
+    ```bash
+    npm install
+    ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+2. Run the development server:
+    ```bash
+    npm run serve
+    ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The application will be available at `http://localhost:8080`.

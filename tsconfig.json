@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "module": "esnext",
+      "target": "es6",
+      "strict": true,
+      "esModuleInterop": true,
+      "jsx": "preserve",
+      "outDir": "./dist",
+      "rootDir": "./src"
+    }
+  }
+  
